@@ -1,6 +1,6 @@
-# Hi 👋, I'm Hanin Alimi
+                                                              # Hi 👋, I'm Hanin Alimi
 
-### Software Engineering Student
+                                                          ### Software Engineering Student
 
 ---
 
